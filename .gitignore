@@ -9,4 +9,4 @@ Notebooks/catboost_info/
 *.joblib
 *.pkl
 .env
-.env.*
+.env.*outputs/
